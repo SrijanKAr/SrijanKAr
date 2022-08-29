@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrijanKAr
-- 👀 I’m interested in Javascript and React
-- 🌱 I’m currently learning React 
+- 👀 I’m interested in Javascript, React, Flutter and node js
+- 🌱 I’m currently learning React and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
